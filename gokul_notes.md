@@ -1,3 +1,5 @@
+
+
 cd<DIR_Name>-to enter a dierectory
 cd.. - to go backwards
 mkdir - to create a new dierectory
